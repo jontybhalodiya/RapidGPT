@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_send_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable rounded_corner
+id bottom_layout
+id left_chat_view
+id left_textview
+id message_edit_text
+id recycle_view
+id right_chat_view
+id right_textview
+id send_button
+id welcome_text
+layout activity_main
+layout chat_item
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.CogniSphereAI
+style Theme.CogniSphereAI
+xml backup_rules
+xml data_extraction_rules
